@@ -16,4 +16,5 @@ sentence = input("type your sent ")
 number = int(input("enter number "))
 
 
+
 word_in_sentence(sent=sentence, n=number)
